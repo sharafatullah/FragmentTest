@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FragmentTest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="Select_City">Select City</string>
+
+    <string-array name="city">
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Kollata</item>
+        <item>Pune</item>
+        <item>Chennai</item>
+    </string-array>
+
+</resources>
